@@ -1,0 +1,18 @@
+Level Notes
+
+0 - ground level
+	grass is most common
+	some rock can be expected
+	some dirt patches can be expected
+	there is a x% chance that grass will extend up to form a hill
+	there is a x% chance that rock will continue if next to another rock
+	there is a x% chance that rock will descend down into rock deposits
+	
+-1 to -3 below ground level
+	the chances of dirt versus rock become more even
+	small chance of coal
+	smaller chance of iron
+	
+-4 to -7 below below ground
+	the chances of rock outweigh dirt
+	there is a chance of openings in the rock (caves)
