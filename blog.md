@@ -1,5 +1,5 @@
-Markdown - A Blog
-=================
+Mineclone - A Blog
+==================
 
 ###I'm going to talk about this
 ####Feb 27, 2014
